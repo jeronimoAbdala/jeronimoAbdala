@@ -6,7 +6,6 @@
 
 <p align="center">
   Desarrollador apasionado por la tecnología, los negocios y el diseño funcional. 💻<br>
-  Bienvenido a un recorrido por algunos de mis proyectos destacados. 🛠️✨
 </p>
 
 ---
@@ -17,15 +16,16 @@
 |------------------|----------------------------------------------|
 | 🧠 Cezart         | [cezart.com.ar](https://cezart.com.ar)       |
 | 🛒 Tecstore ARG   | [tecstorearg.com](https://tecstorearg.com)   |
-| 👨‍🚀 Spacetech     | [spacetech.com.ar](https://spacetech.com.ar) |
+| 🛒 Tecstore ARG - usados    | [spacetech.com.ar](https://spacetech.ar) |
+| 👨‍🚀 Spacetech     | [spacetech.com.ar](https://spacetech.ar) |
+| 👨‍🚀 Spacetech - usados    | [spacetech.com.ar](https://spacetech.ar) |
 
 ---
 
 ## 🚀 Sobre mí
 
 - 🔭 Actualmente desarrollando soluciones para e-commerce, IA y automatización de procesos.
-- 💬 Preguntame sobre **WordPress, Shopify, Botpress, APIs y automatización**.
-- 📫 Contacto: [info@cezart.com.ar](mailto:info@cezart.com.ar)
+- 📫 Contacto: [info@cezart.com.ar](mailto:jeroabdalala@gmail.com)
 
 ---
 
