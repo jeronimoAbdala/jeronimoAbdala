@@ -16,7 +16,7 @@
 |------------------|----------------------------------------------|
 | 🧠 Cezart         | [Cezart - Tienda de ceramica](https://cezart.com.ar)       |
 | 🛒 Tecstore ARG   | [Tecstore - Tienda de dispositivos](https://tecstorearg.com)   |
-| 🛒 Tecstore ARG - usados    | [Tecstore - Iphones usados](https://tecstorearg.com/iphones-usados) |
+| 🛒 Tecstore ARG - usados    | [Tecstore - Iphones usados](https://tecstorearg.com/iphones-seminuevos) |
 | 👨‍🚀 Spacetech     | [spacetech.com.ar](https://spacetech.ar) |
 | 👨‍🚀 Spacetech - usados    | [spacetech.com.ar](https://spacetech.ar) |
 
