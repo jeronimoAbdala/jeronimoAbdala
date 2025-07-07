@@ -14,9 +14,9 @@
 
 | 🌟 Proyecto       | 🌍 Enlace                                     |
 |------------------|----------------------------------------------|
-| 🧠 Cezart         | [cezart.com.ar](https://cezart.com.ar)       |
-| 🛒 Tecstore ARG   | [tecstorearg.com](https://tecstorearg.com)   |
-| 🛒 Tecstore ARG - usados    | [spacetech.com.ar](https://spacetech.ar) |
+| 🧠 Cezart         | [Cezart - Tienda de ceramica](https://cezart.com.ar)       |
+| 🛒 Tecstore ARG   | [Tecstore - Tienda de dispositivos](https://tecstorearg.com)   |
+| 🛒 Tecstore ARG - usados    | [Tecstore - Iphones usados](https://tecstorearg.com/iphones-usados) |
 | 👨‍🚀 Spacetech     | [spacetech.com.ar](https://spacetech.ar) |
 | 👨‍🚀 Spacetech - usados    | [spacetech.com.ar](https://spacetech.ar) |
 
